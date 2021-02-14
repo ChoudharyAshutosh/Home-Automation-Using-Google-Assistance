@@ -6,5 +6,5 @@ Firstly, I have taken Token from "https://node-red-google-home.herokuapp.com/" a
 And then I programmed ESP32 and Node-Red flow editor.
 After this, all was set.
 
-## Link for Video
+## Link for video of working project
 ### https://www.linkedin.com/feed/update/urn:li:activity:6721764572530913280/
